@@ -6,15 +6,21 @@ This project is an example of performing automated end-to-end testing of a card 
 
 # Installation 
 To install this project, follow these steps:
-Clone the repository Navigate to the project directory in a terminal Run npm install to install the project dependencies
+Clone the repository 
+Navigate to the project directory in a terminal 
+Run npm install to install the project dependencies
 
 # Running the Tests 
-To run the tests, run the following command in a terminal: npm run cy:run_spec for headless mode npm run cy:run_browser This command will run the tests on both Chrome and edge browsers.
+To run the tests, run the following command in a terminal: 
+npm run cy:run_spec for headless mode 
+npm run cy:run_browser to run the tests on both Chrome and edge browsers.
 
 # Test Cases 
 
 The following test cases are covered in this project:
-Filling in the donation details and completing the payment process Verifying that the thank-you page shows the correct donation details Verifying that the transaction ID and reference code match
+Filling in the donation details and completing the payment process.
+Verifying that the thank-you page shows the correct donation details 
+Verifying that the transaction ID and reference code match
 
 # Test Data 
 
