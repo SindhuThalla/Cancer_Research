@@ -34,3 +34,7 @@ The configuration for the project is stored in the config.ts file in the root di
 
 # Globals 
 The globals.ts file in the root directory contains global variables used throughout the project. This file is used to store the transaction ID and reference code generated during the payment process, which are then used to verify the donation details on the thank-you page.
+
+# Accesibility Testing
+
+Accesibility testing was performed on the website using the AXE tool and the results are shared in the .csv file.
