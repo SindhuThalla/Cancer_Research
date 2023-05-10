@@ -13,7 +13,7 @@ Run npm install to install the project dependencies
 # Running the Tests 
 To run the tests, run the following command in a terminal: 
 npm run cy:run_spec for headless mode 
-npm run cy:run_browser to run the tests on both Chrome and edge browsers.
+npm run cy:run_browser to run the test on both Chrome and edge browsers by performing Cross browser testing.
 
 # Test Cases 
 
